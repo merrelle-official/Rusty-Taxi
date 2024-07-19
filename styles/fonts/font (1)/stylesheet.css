@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Ossem Rust';
+    src: url('Ossem-Rust.eot');
+    src: local('Ossem Rust'), local('Ossem-Rust'),
+        url('Ossem-Rust.eot?#iefix') format('embedded-opentype'),
+        url('Ossem-Rust.woff2') format('woff2'),
+        url('Ossem-Rust.woff') format('woff'),
+        url('Ossem-Rust.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ossem';
+    src: url('Ossem-Regular.eot');
+    src: local('Ossem Regular'), local('Ossem-Regular'),
+        url('Ossem-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Ossem-Regular.woff2') format('woff2'),
+        url('Ossem-Regular.woff') format('woff'),
+        url('Ossem-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ossem Rough';
+    src: url('Ossem-Rough.eot');
+    src: local('Ossem Rough'), local('Ossem-Rough'),
+        url('Ossem-Rough.eot?#iefix') format('embedded-opentype'),
+        url('Ossem-Rough.woff2') format('woff2'),
+        url('Ossem-Rough.woff') format('woff'),
+        url('Ossem-Rough.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ossem Rounded';
+    src: url('Ossem-Rounded.eot');
+    src: local('Ossem Rounded'), local('Ossem-Rounded'),
+        url('Ossem-Rounded.eot?#iefix') format('embedded-opentype'),
+        url('Ossem-Rounded.woff2') format('woff2'),
+        url('Ossem-Rounded.woff') format('woff'),
+        url('Ossem-Rounded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

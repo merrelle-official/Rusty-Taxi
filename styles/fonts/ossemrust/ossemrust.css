@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Ossem Rust';
+    src: local('Ossem Rust'), local('Ossem-Rust'), url('Ossemrust.woff2') format('woff2'), url('Ossemrust.woff') format('woff'), url('Ossemrust.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
