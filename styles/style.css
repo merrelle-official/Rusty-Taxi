@@ -23,6 +23,15 @@ h1{
     font-size: 40px;
 }
 
+.btn{
+    color: #151515;
+    background-color:#EFEFEF;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 0.6rem 3.5rem;
+    cursor: pointer;
+}
+
 .header{
     position: fixed;
     width: 100%;
@@ -151,6 +160,14 @@ h1{
     height: auto;
 }
 
+.banner_right-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    gap: 1rem;
+}
+
 .banner_right-item>img{
     width: 88%;
 }
@@ -158,4 +175,14 @@ h1{
 .banner_recall{
     width: 100%;
     background-color: #A83C09;
+    border-radius: 0;
+    padding: 2rem 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+
+.banner_recall>:last-child{
+    transform: scale(-1, 1)
 }
